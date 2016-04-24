@@ -4,11 +4,13 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: 'UltraPedestrian Mind/Body Challenge  '
-datePublished: '2016-04-24T03:20:04.787Z'
-dateModified: '2016-04-24T03:18:17.260Z'
+description: UltraPedestrian Mind/Body Challenge
+datePublished: '2016-04-24T03:23:40.776Z'
+dateModified: '2016-04-24T03:23:34.199Z'
 title: ''
 author: []
+sourcePath: _posts/2016-04-24-ultrapedestrian-mindbody-challenge.md
+published: true
 authors: []
 publisher:
   name: null
@@ -16,15 +18,13 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-04-24-ultrapedestrian-mindbody-challenge.md
-published: true
 url: ultrapedestrian-mindbody-challenge/index.html
 _type: Article
 
 ---
 **UltraPedestrian Mind/Body Challenge**
 
-For 2015 we are offering a new and unique challenge called the
+For 2016 we are offering a new and unique challenge called the
 
 **Here's the scoop:**
 
@@ -34,6 +34,8 @@ _That's the Body part._
 **Here's the Mind part:**
 
 Jack Kerouac spent 63 days during the summer of 1956 as a fire lookout on Desolation Peak. He wrote about his experiences in the books Lonesome Traveler, The Dharma Bums and Desolation Angels. To complete the UltraPedestrian Mind/Body Challenge you must read or listen to one or more of the works attributed to this period in Kerouac's career, and in your trip report tie in your experience on the trail to one of the books. This can be done in any way you see fit, through words, pictures, video, song, whatever expression you choose. Anyone who completes the route, reading, and writing assignment will receive a one of a kind finisher's patch.
+
+Only 100 patches have been made. In 2015 two of them were awarded, leaving 98 as yet unclaimed. Once those 98 are handed out to finishers no more patches will be made and the Double Desolation Route will be closed forever.
 
 The entry fee for the 2015 UltraPedestrian Mind/Body Challenge is $25.00 per person. All proceeds beyond the cost of patches and shipping costs will go to support UltraPedestrian.com.
 
@@ -51,7 +53,7 @@ The entry fee for the 2015 UltraPedestrian Mind/Body Challenge is $25.00 per per
 
 Complete results will be posted on UltraPedestrianWildernessChallenge.com on February. Patches will be mailed out soon thereafter .
 
-We strongly encourage all entrants to join the  **[UPWC Facebook Group][1] to ask questions about the routes, gather and share trail beta, connect with other UPWC participants, scope out the competition, and keep up to date on the most recent news, information, and general goings on.**
+We strongly encourage all entrants to join the **[UPWC Facebook Group][1] to ask questions about the routes, gather and share trail beta, connect with other UPWC participants, scope out the competition, and keep up to date on the most recent news, information, and general goings on.**
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ac6aabb2-ced4-40f9-ab0a-018455c58cda.png)
 
 [0]: https://ultrasignup.com/register.aspx?did=33653
