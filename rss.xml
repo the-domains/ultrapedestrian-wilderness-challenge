@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[UltraPedestrian Wilderness Challenge]]></title>
         <description><![CDATA[UltraPedestrian Wilderness Challenge]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://ultrapedestrianwildernesschallenge.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 24 Apr 2016 03:20:05 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 24 Apr 2016 03:23:41 GMT</lastBuildDate>
+        <atom:link href="http://ultrapedestrianwildernesschallenge.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[No title]]></title>
+            <title><![CDATA[Double Desolation Route]]></title>
             <description><![CDATA[<p>UltraPedestrian Mind/Body Challenge</p>]]></description>
-            <link>undefinedultrapedestrian-mindbody-challenge/index.html</link>
+            <link>http://ultrapedestrianwildernesschallenge.com/ultrapedestrian-mindbody-challenge/index.html</link>
             <guid isPermaLink="false">19ba81d6-0114-4873-9f33-011aeb8b0108</guid>
-            <pubDate>Sun, 24 Apr 2016 03:20:04 GMT</pubDate>
+            <pubDate>Sun, 24 Apr 2016 03:23:40 GMT</pubDate>
         </item>
     </channel>
 </rss>
