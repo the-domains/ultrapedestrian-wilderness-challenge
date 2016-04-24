@@ -1,0 +1,28 @@
+name: UltraPedestrian Wilderness Challenge
+favicon: null
+layout_spectrum: 0.11096438113600016
+typography_spectrum: 0.7179760292638093
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.0621108147315681
+  lightness: 0.9195242077112198
+  saturation: 0.7803622267674655
+  rhythmicContrast: 0.958621226483956
+purpose: []
