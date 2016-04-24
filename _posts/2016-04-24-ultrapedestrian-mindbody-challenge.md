@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: UltraPedestrian Mind/Body Challenge
-datePublished: '2016-04-24T03:23:40.776Z'
-dateModified: '2016-04-24T03:23:34.199Z'
+datePublished: '2016-04-24T20:25:17.648Z'
+dateModified: '2016-04-24T03:42:13.868Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-24-ultrapedestrian-mindbody-challenge.md
@@ -17,7 +17,7 @@ publisher:
   domain: null
   url: null
   favicon: null
-starred: false
+starred: true
 url: ultrapedestrian-mindbody-challenge/index.html
 _type: Article
 
