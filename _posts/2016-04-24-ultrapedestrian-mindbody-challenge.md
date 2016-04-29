@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: UltraPedestrian Mind/Body Challenge
-datePublished: '2016-04-24T20:25:17.648Z'
-dateModified: '2016-04-24T03:42:13.868Z'
+datePublished: '2016-04-29T04:45:09.248Z'
+dateModified: '2016-04-29T04:44:50.373Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-24-ultrapedestrian-mindbody-challenge.md
@@ -55,6 +55,7 @@ Complete results will be posted on UltraPedestrianWildernessChallenge.com on Feb
 
 We strongly encourage all entrants to join the **[UPWC Facebook Group][1] to ask questions about the routes, gather and share trail beta, connect with other UPWC participants, scope out the competition, and keep up to date on the most recent news, information, and general goings on.**
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ac6aabb2-ced4-40f9-ab0a-018455c58cda.png)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/bc95a72c-9235-4ad0-84ee-20476e4edf71.jpg)
 
 [0]: https://ultrasignup.com/register.aspx?did=33653
 [1]: null
