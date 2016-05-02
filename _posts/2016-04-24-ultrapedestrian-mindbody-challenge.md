@@ -4,10 +4,10 @@ hasPage: true
 inNav: true
 inLanguage: null
 keywords: []
-description: 'Registration for the UltraPedestrian Mind/Body Challenge is now open!'
-datePublished: '2016-05-02T21:41:35.123Z'
-dateModified: '2016-05-02T21:41:30.130Z'
-title: ' '
+description: 'Registration for the UltraPedestrian Mind/Body Challenge is now open! '
+datePublished: '2016-05-02T21:49:18.852Z'
+dateModified: '2016-05-02T21:48:56.740Z'
+title: ''
 author: []
 sourcePath: _posts/2016-04-24-ultrapedestrian-mindbody-challenge.md
 published: true
@@ -22,7 +22,8 @@ url: ultrapedestrian-mindbody-challenge/index.html
 _type: Article
 
 ---
-## ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f095e7a3-b7b1-4303-856d-7850278df32f.jpg)
+## UltraPedestrian Mind/Body Challenge
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1aa0be7f-2007-4a99-be1e-b10e7aecfd40.jpg)
 
 **[Registration for the UltraPedestrian Mind/Body Challenge is now open!][0]**
 
@@ -83,6 +84,7 @@ Registration for the UltraPedestrian Mind/Body Challenge requires a one-time fee
 No refunds.
 
 All proceeds beyond the cost of prizes, awards, and shipping costs will go to support UltraPedestrian.com, the UltraPedestrian Mind/Body Challenge, and the UltraPedestrian Wilderness Challenge.
+![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/1c70b55c42e3f05261c73858413562a9/passthrough.png?height=600&input=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fthe-grid-img%2Fp%2F0f15d7c8d3dcf51010a9c7db8bece89999849dcd.png&width=597)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ac6aabb2-ced4-40f9-ab0a-018455c58cda.png)
 
 [0]: https://ultrasignup.com/register.aspx?did=38804
