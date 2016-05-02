@@ -4,9 +4,9 @@ hasPage: true
 inNav: true
 inLanguage: null
 keywords: []
-description: 'Registration for the UltraPedestrian Mind/Body Challenge is now open! '
-datePublished: '2016-05-02T21:49:18.852Z'
-dateModified: '2016-05-02T21:48:56.740Z'
+description: 'Registration for the UltraPedestrian Mind/Body Challenge is now open!'
+datePublished: '2016-05-02T21:51:47.954Z'
+dateModified: '2016-05-02T21:51:19.214Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-24-ultrapedestrian-mindbody-challenge.md
