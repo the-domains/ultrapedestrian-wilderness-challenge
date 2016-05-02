@@ -4,10 +4,10 @@ hasPage: true
 inNav: true
 inLanguage: null
 keywords: []
-description: ''
-datePublished: '2016-05-02T21:29:09.795Z'
-dateModified: '2016-05-02T21:28:58.032Z'
-title: Complete Rules Of Participation
+description: 'Registration for the UltraPedestrian Mind/Body Challenge is now open!'
+datePublished: '2016-05-02T21:33:26.851Z'
+dateModified: '2016-05-02T21:33:22.690Z'
+title: ''
 author: []
 sourcePath: _posts/2016-04-24-ultrapedestrian-mindbody-challenge.md
 published: true
@@ -22,6 +22,7 @@ url: ultrapedestrian-mindbody-challenge/index.html
 _type: Article
 
 ---
+## UltraPedestrian Mind/Body Challenge
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f095e7a3-b7b1-4303-856d-7850278df32f.jpg)
 
 **[Registration for the UltraPedestrian Mind/Body Challenge is now open!][0]**
