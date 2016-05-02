@@ -5,9 +5,9 @@ inNav: true
 inLanguage: null
 keywords: []
 description: 'Registration for the UltraPedestrian Mind/Body Challenge is now open!'
-datePublished: '2016-05-02T21:33:26.851Z'
-dateModified: '2016-05-02T21:33:22.690Z'
-title: ''
+datePublished: '2016-05-02T21:38:40.125Z'
+dateModified: '2016-05-02T21:38:26.197Z'
+title: UltraPedestrian Mind/Body Challenge
 author: []
 sourcePath: _posts/2016-04-24-ultrapedestrian-mindbody-challenge.md
 published: true
@@ -85,9 +85,6 @@ No refunds.
 
 All proceeds beyond the cost of prizes, awards, and shipping costs will go to support UltraPedestrian.com, the UltraPedestrian Mind/Body Challenge, and the UltraPedestrian Wilderness Challenge.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ac6aabb2-ced4-40f9-ab0a-018455c58cda.png)
-
-  
-
 
 [0]: https://ultrasignup.com/register.aspx?did=38804
 [1]: http://jeffwrightsblog.blogspot.com/2015/07/mindbody-challenge-desolation-peak.html
