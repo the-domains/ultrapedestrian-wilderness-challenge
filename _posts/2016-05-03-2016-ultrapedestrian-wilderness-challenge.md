@@ -6,9 +6,9 @@ isBasedOnUrl: null
 inLanguage: null
 keywords: []
 description: 2016 UltraPedestrian Wilderness Challenge Registration is OPEN
-datePublished: '2016-05-03T06:10:24.627Z'
-dateModified: '2016-05-03T06:10:16.194Z'
-title: 2016 UltraPedestrian Wilderness Challenge
+datePublished: '2016-05-03T06:11:01.105Z'
+dateModified: '2016-05-03T06:10:55.564Z'
+title: ' '
 author: []
 sourcePath: _posts/2016-05-03-2016-ultrapedestrian-wilderness-challenge.md
 published: true
@@ -22,7 +22,7 @@ starred: false
 _type: Blurb
 
 ---
-## 2016 UltraPedestrian Wilderness Challenge
+## 
 
 [**2016 UltraPedestrian Wilderness Challenge Registration is OPEN**][0]
 
