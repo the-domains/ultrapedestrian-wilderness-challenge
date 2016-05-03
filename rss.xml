@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[UltraPedestrian Wilderness Challenge]]></title>
+        <description><![CDATA[UltraPedestrian Wilderness Challenge]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 03 May 2016 05:19:31 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Windy Peak Loop]]></title>
+            <description><![CDATA[<article><h1>Windy Peak Loop</h1><p> The fourth annual UltraPedestrian Wilderness Challenge is a multi-faceted multi-media adventure blogging contest open to Trailrunners, Fastpackers, Backpackers, and bipeds of all stripes. We are offer three unique routes. Entrants may attempt any or all of these. There are no aid stations, no course markings, no start/finish, no lemming lines, no cut offs, no set date; in fact, it's all up to you.</p></article>]]></description>
+            <link>undefinedwindy-peak-loop/index.html</link>
+            <guid isPermaLink="false">1ccf8187-9382-4b2d-b8f4-f906a78902ef</guid>
+            <pubDate>Tue, 03 May 2016 05:19:20 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
