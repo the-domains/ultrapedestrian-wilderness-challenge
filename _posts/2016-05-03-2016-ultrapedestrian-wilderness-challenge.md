@@ -1,14 +1,13 @@
 ---
 inFeed: true
-hasPage: false
-inNav: false
-isBasedOnUrl: null
+hasPage: true
+inNav: true
 inLanguage: null
 keywords: []
 description: 2016 UltraPedestrian Wilderness Challenge Registration is OPEN
-datePublished: '2016-05-03T03:38:04.681Z'
-dateModified: '2016-05-03T03:37:50.047Z'
-title: ' '
+datePublished: '2016-05-03T03:56:52.389Z'
+dateModified: '2016-05-03T03:40:57.828Z'
+title: ''
 author: []
 sourcePath: _posts/2016-05-03-2016-ultrapedestrian-wilderness-challenge.md
 published: true
@@ -19,11 +18,10 @@ publisher:
   url: null
   favicon: null
 starred: true
-_type: Blurb
+url: 1ccf8187-9382-4b2d-b8f4-f906a78902ef/index.html
+_type: Article
 
 ---
-## 
-
 [**2016 UltraPedestrian Wilderness Challenge Registration is OPEN**][0]
 
 The fourth annual UltraPedestrian Wilderness Challenge is a multi-faceted multi-media adventure blogging contest open to Trailrunners, Fastpackers, Backpackers, and bipeds of all stripes. We are offer three unique routes. Entrants may attempt any or all of these. There are no aid stations, no course markings, no start/finish, no lemming lines, no cut offs, no set date; in fact, it's all up to you.
@@ -234,9 +232,6 @@ No refunds.
 All proceeds beyond the cost of prizes, awards, and shipping costs will go to support [**UltraPedestrian.com**][4], the [**UltraPedestrian Mind/Body Challenge**][13], and the [**UltraPedestrian Wilderness Challenge**][0].
 
 [**2016 UltraPedestrian Wilderness Challenge registration is OPEN**][0]
-
-  
-
 
 [0]: https://ultrasignup.com/register.aspx?did=38937
 [1]: https://www.facebook.com/groups/UPWildernessChallenge/
