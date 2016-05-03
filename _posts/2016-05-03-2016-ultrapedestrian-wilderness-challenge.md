@@ -6,8 +6,8 @@ isBasedOnUrl: null
 inLanguage: null
 keywords: []
 description: 2016 UltraPedestrian Wilderness Challenge Registration is OPEN
-datePublished: '2016-05-03T06:05:49.848Z'
-dateModified: '2016-05-03T06:05:44.448Z'
+datePublished: '2016-05-03T06:10:24.627Z'
+dateModified: '2016-05-03T06:10:16.194Z'
 title: 2016 UltraPedestrian Wilderness Challenge
 author: []
 sourcePath: _posts/2016-05-03-2016-ultrapedestrian-wilderness-challenge.md
@@ -157,7 +157,7 @@ And please, do not be intimidated by the off-trail nature of this course. The fi
 
 **CalTopo Link for map: **caltopo.com/m/3LHO
 
-**POINTS SYSTEM FOR THE UPWC**
+## POINTS SYSTEM FOR THE UPWC
 
 The UltraPedestrian Wilderness Challenge is all about shattering paradigms, but as we are only in the fourth year, it is still very much a work in progress. While simple speed has it's advantages and rewards, one of the main goals of the UPWC is to recognize and celebrate other aspects of adventuring as well. For the first two years we struggled with figuring out how to quantify these other aspects of achievement. Beginning in 2015 we instituted a points-based system intended do exactly that: award ALL aspects of adventuring, including, but not limited to, speed. Here is a breakdown of the points system:
 
