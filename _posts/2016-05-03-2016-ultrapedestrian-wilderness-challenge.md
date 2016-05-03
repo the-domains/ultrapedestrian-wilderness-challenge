@@ -1,28 +1,28 @@
 ---
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
+isBasedOnUrl: null
 inLanguage: null
 keywords: []
 description: 2016 UltraPedestrian Wilderness Challenge Registration is OPEN
-datePublished: '2016-05-03T03:27:38.015Z'
-dateModified: '2016-05-03T03:27:08.648Z'
-title: 2016 UltraPedestrian Wilderness Challenge
+datePublished: '2016-05-03T03:38:04.681Z'
+dateModified: '2016-05-03T03:37:50.047Z'
+title: ' '
 author: []
+sourcePath: _posts/2016-05-03-2016-ultrapedestrian-wilderness-challenge.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-starred: false
-sourcePath: _posts/2016-05-03-2016-ultrapedestrian-wilderness-challenge.md
-published: true
-url: 2016-ultrapedestrian-wilderness-challenge/index.html
-_type: Article
+starred: true
+_type: Blurb
 
 ---
-## 2016 UltraPedestrian Wilderness Challenge
+## 
 
 [**2016 UltraPedestrian Wilderness Challenge Registration is OPEN**][0]
 
@@ -235,7 +235,6 @@ All proceeds beyond the cost of prizes, awards, and shipping costs will go to su
 
 [**2016 UltraPedestrian Wilderness Challenge registration is OPEN**][0]
 
-  
   
 
 
