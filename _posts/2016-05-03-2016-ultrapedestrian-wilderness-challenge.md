@@ -6,9 +6,9 @@ isBasedOnUrl: null
 inLanguage: null
 keywords: []
 description: 2016 UltraPedestrian Wilderness Challenge Registration is OPEN
-datePublished: '2016-05-03T06:11:01.105Z'
-dateModified: '2016-05-03T06:10:55.564Z'
-title: ' '
+datePublished: '2016-05-03T06:41:07.262Z'
+dateModified: '2016-05-03T06:41:04.033Z'
+title: ''
 author: []
 sourcePath: _posts/2016-05-03-2016-ultrapedestrian-wilderness-challenge.md
 published: true
@@ -22,13 +22,11 @@ starred: false
 _type: Blurb
 
 ---
-## 
-
 [**2016 UltraPedestrian Wilderness Challenge Registration is OPEN**][0]
 
 The fourth annual UltraPedestrian Wilderness Challenge is a multi-faceted multi-media adventure blogging contest open to Trailrunners, Fastpackers, Backpackers, and bipeds of all stripes. We are offer three unique routes. Entrants may attempt any or all of these. There are no aid stations, no course markings, no start/finish, no lemming lines, no cut offs, no set date; in fact, it's all up to you.
 
-**How to participate in the 2016 UP Mind/Body Challenge: **
+**How to participate in the 2016 UP Wilderness Challenge: **
 
 1\. Sign up on [**Ultrasignup.com**][0] for any or all of the 2016 UPWC routes _before__you make your attempt and before November 30th, 2016_. 
 
@@ -38,7 +36,7 @@ The fourth annual UltraPedestrian Wilderness Challenge is a multi-faceted multi-
 
 4\. In early 2017 a party will be held at [**Seven Hills Running Shop**][3] to wrap up the 2016 event and kick off the 2017 event. Finisher's patches and other awards and swag will be handed out for both the UPWC and UPMBC and the routes for 2017 will be presented. 
 
-5\. If you are unable to attend the 2016 UPWC Wrap Party/2017 UPWC Kickoff Party, visit [**UltraPedestrianWildernessChallenge.com**][2] for complete results and visit [**Seven Hills Running Shop**][3] in person to pick up your UPMBC commemorative finisher's patch. If you live outside the greater Seattle area, arrangements can be made to send you your finisher's patch via U.S. mail. 
+5\. If you are unable to attend the 2016 UPWC Wrap Party/2017 UPWC Kickoff Party, visit [**UltraPedestrianWildernessChallenge.com**][2] for complete results and visit [**Seven Hills Running Shop**][3] in person to pick up your UPWC commemorative finisher's patch. If you live outside the greater Seattle area, arrangements can be made to send you your finisher's patch via U.S. mail. 
 
 We strongly encourage all entrants to join the [**UPWC Facebook Group**][1] to ask questions about the routes, gather and share trail beta, connect with other UltraPedestrian Wilderness Challenge participants, scope out the competition, and keep up to date on the most recent news, information, and general goings on. 
 
