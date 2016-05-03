@@ -1,6 +1,6 @@
-name: UltraPedestrian Wilderness Challenge
+name: UPWC
 favicon: null
-layout_spectrum: 0.11096438113600016
+layout_spectrum: 0.24904
 typography_spectrum: 0.7179760292638093
 title: UltraPedestrian Wilderness Challenge
 cta:
@@ -22,7 +22,7 @@ color:
     - '#B3BFB8'
     - '#F0F7F4'
     - '#A2E3C4'
-  brandStrength: 0.0621108147315681
+  brandStrength: 0.5
   lightness: 0.9195242077112198
   saturation: 0.7803622267674655
   rhythmicContrast: 0.958621226483956
