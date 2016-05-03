@@ -1,12 +1,12 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
 keywords: []
 description: ' For 2016 UltraPedestrian.com is once again offering a new and unique contest called the Mind/Body Challenge.'
-datePublished: '2016-05-03T03:39:37.276Z'
-dateModified: '2016-05-03T03:39:07.229Z'
+datePublished: '2016-05-03T04:07:06.342Z'
+dateModified: '2016-05-03T03:58:27.246Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-24-ultrapedestrian-mindbody-challenge.md
@@ -19,7 +19,7 @@ publisher:
   favicon: null
 starred: false
 url: ultrapedestrian-mindbody-challenge/index.html
-_type: Article
+_type: WebPage
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1aa0be7f-2007-4a99-be1e-b10e7aecfd40.jpg)
@@ -84,9 +84,6 @@ No refunds.
 
 All proceeds beyond the cost of prizes, awards, and shipping costs will go to support [**UltraPedestrian.com**][6], the [**UltraPedestrian Mind/Body Challenge**][0], and the [**UltraPedestrian Wilderness Challenge**][7].
 ![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/1c70b55c42e3f05261c73858413562a9/passthrough.png?height=600&input=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fthe-grid-img%2Fp%2F0f15d7c8d3dcf51010a9c7db8bece89999849dcd.png&width=597)
-
-  
-
 
 [0]: https://ultrasignup.com/register.aspx?did=38804
 [1]: http://jeffwrightsblog.blogspot.com/2015/07/mindbody-challenge-desolation-peak.html
