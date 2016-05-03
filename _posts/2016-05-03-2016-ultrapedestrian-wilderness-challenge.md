@@ -5,10 +5,10 @@ inNav: false
 isBasedOnUrl: null
 inLanguage: null
 keywords: []
-description: " The fourth annual UltraPedestrian Wilderness Challenge is a multi-faceted multi-media adventure blogging contest open to Trailrunners, Fastpackers, Backpackers, and bipeds of all stripes. We are offer three unique routes. Entrants may attempt any or all of these. There are no aid stations, no course markings, no start/finish, no lemming lines, no cut offs, no set date; in fact, it's all up to you."
-datePublished: '2016-05-03T05:59:35.960Z'
-dateModified: '2016-05-03T05:59:32.288Z'
-title: '2016 UltraPedestrian Wilderness Challenge Registration is OPEN '
+description: 2016 UltraPedestrian Wilderness Challenge Registration is OPEN
+datePublished: '2016-05-03T06:05:49.848Z'
+dateModified: '2016-05-03T06:05:44.448Z'
+title: 2016 UltraPedestrian Wilderness Challenge
 author: []
 sourcePath: _posts/2016-05-03-2016-ultrapedestrian-wilderness-challenge.md
 published: true
@@ -22,7 +22,9 @@ starred: false
 _type: Blurb
 
 ---
-## **[2016 UltraPedestrian Wilderness Challenge Registration is OPEN][0]**
+## 2016 UltraPedestrian Wilderness Challenge
+
+[**2016 UltraPedestrian Wilderness Challenge Registration is OPEN**][0]
 
 The fourth annual UltraPedestrian Wilderness Challenge is a multi-faceted multi-media adventure blogging contest open to Trailrunners, Fastpackers, Backpackers, and bipeds of all stripes. We are offer three unique routes. Entrants may attempt any or all of these. There are no aid stations, no course markings, no start/finish, no lemming lines, no cut offs, no set date; in fact, it's all up to you.
 
