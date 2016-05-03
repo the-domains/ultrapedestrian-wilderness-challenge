@@ -6,8 +6,8 @@ isBasedOnUrl: null
 inLanguage: null
 keywords: []
 description: " The fourth annual UltraPedestrian Wilderness Challenge is a multi-faceted multi-media adventure blogging contest open to Trailrunners, Fastpackers, Backpackers, and bipeds of all stripes. We are offer three unique routes. Entrants may attempt any or all of these. There are no aid stations, no course markings, no start/finish, no lemming lines, no cut offs, no set date; in fact, it's all up to you."
-datePublished: '2016-05-03T06:51:07.274Z'
-dateModified: '2016-05-03T06:51:00.899Z'
+datePublished: '2016-05-03T07:04:49.457Z'
+dateModified: '2016-05-03T07:04:45.898Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-03-2016-ultrapedestrian-wilderness-challenge.md
@@ -185,7 +185,7 @@ Additional categories may be added at any time. All points are awarded at the so
 
 **BONUS POINTS FOR PAST UPWC ROUTES**
 
-Previous UPWC Routes may be completed for bonus points. Participants will receive **5 bonus point****s**********for each route completed from [**UPWC \#1**][9],**[UPWC \#2][10]**,****and/or **[UPWC \#3][11]**. Completing a route must include producing content in the form of a trip report, photo album, video, audio recording, artistic rendering, or any other form which reflects your experience of the route and can be posted online via your personal blog and/or the [**UPWC Facebook group**][1]. There is no signup fee for any of these bonus point routes, and, consequently, there are no finisher's patches for these routes. However, to be eligible for bonus points, entrants must have registered and paid their entry fee for at least one route from the current UPWC before completing a bonus route, and must complete at least one route from the current year by the end of the competition in order to receive the bonus points. Bonus point routes and current UPWC routes may be completed in any order.
+Previous UPWC Routes may be completed for bonus points. Participants will receive **5 bonus point****s**********for each route completed from [**UPWC \#1**][9],[**UPWC \#2**][10],****and/or [**UPWC \#3**][11]. Completing a route must include producing content in the form of a trip report, photo album, video, audio recording, artistic rendering, or any other form which reflects your experience of the route and can be posted online via your personal blog and/or the [**UPWC Facebook group**][1]. There is no signup fee for any of these bonus point routes, and, consequently, there are no finisher's patches for these routes. However, to be eligible for bonus points, entrants must have registered and paid their entry fee for at least one route from the current UPWC before completing a bonus route, and must complete at least one route from the current year by the end of the competition in order to receive the bonus points. Bonus point routes and current UPWC routes may be completed in any order.
 
 **Five (5) bonus points** will also be awarded for completing the [**UltraPedestrian Mind/Body Challenge**][12].
 
