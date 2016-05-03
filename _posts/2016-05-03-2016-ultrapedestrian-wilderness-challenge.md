@@ -5,9 +5,9 @@ inNav: false
 isBasedOnUrl: null
 inLanguage: null
 keywords: []
-description: " The fourth annual UltraPedestrian Wilderness Challenge is a multi-faceted multi-media adventure blogging contest open to Trailrunners, Fastpackers, Backpackers, and bipeds of all stripes. We are offer three unique routes. Entrants may attempt any or all of these. There are no aid stations, no course markings, no start/finish, no lemming lines, no cut offs, no set date; in fact, it's all up to you."
-datePublished: '2016-05-03T05:45:59.218Z'
-dateModified: '2016-05-03T05:45:48.664Z'
+description: 2016 UltraPedestrian Wilderness Challenge Registration is OPEN
+datePublished: '2016-05-03T05:55:05.733Z'
+dateModified: '2016-05-03T05:55:01.829Z'
 title: 2016 UltraPedestrian Wilderness Challenge
 author: []
 sourcePath: _posts/2016-05-03-2016-ultrapedestrian-wilderness-challenge.md
@@ -36,15 +36,13 @@ The fourth annual UltraPedestrian Wilderness Challenge is a multi-faceted multi-
 
 3\. Email your proof and documentation, including trip report link and any GPS data to UltraPedestrian@gmail.com with the subject line "2016 UPWC PROOF & DOCUMENTATION" no later than midnight December 31, 2016\. (In the near future this step will be replaced by posting your trip report directly to the [**UPWC website**][2].) 
 
-4\. In early 2017 a party will be held at Seven Hills Running Shop to wrap up the 2016 event and kick off the 2017 event. Finisher's patches and other awards and swag will be handed out for both the UPWC and UPMBC and the routes for 2017 will be presented. 
+4\. In early 2017 a party will be held at [**Seven Hills Running Shop**][3] to wrap up the 2016 event and kick off the 2017 event. Finisher's patches and other awards and swag will be handed out for both the UPWC and UPMBC and the routes for 2017 will be presented. 
 
 5\. If you are unable to attend the 2016 UPWC Wrap Party/2017 UPWC Kickoff Party, visit [**UltraPedestrianWildernessChallenge.com**][2] for complete results and visit [**Seven Hills Running Shop**][3] in person to pick up your UPMBC commemorative finisher's patch. If you live outside the greater Seattle area, arrangements can be made to send you your finisher's patch via U.S. mail. 
 
 We strongly encourage all entrants to join the [**UPWC Facebook Group**][1] to ask questions about the routes, gather and share trail beta, connect with other UltraPedestrian Wilderness Challenge participants, scope out the competition, and keep up to date on the most recent news, information, and general goings on. 
 
 **[2016 UltraPedestrian Wilderness Challenge Registration is OPEN][0]**
-
-# 2016 UltraPedestrian Wilderness Challenge
 
 ## Windy Peak Loop
 
@@ -62,7 +60,7 @@ From here, the trail drops down into the lush environment of Horseshoe Basin. Th
 
 At Sunny Pass, there is an option of taking a 2 mile side trip to Louden Lake. The lake is a good spot to have lunch or cool down if its hot.
 
-There are creeks in this area to get water. There are also good creeks in Horsehoe Basin and nearing the end of the route, in the old burn zone. This is a beautiful area with charred trees, rugged rock formations and abundant wildflowers.
+There are creeks in this area to get water. There are also good creeks in Horseshoe Basin and nearing the end of the route, in the old burn zone. This is a beautiful area with charred trees, rugged rock formations and abundant wildflowers.
 
 This is a special, high country route in the remote country of the Pasayten Wilderness. I highly recommend making the trip if you like solitude and a nice, ultra distance loop run. I like that the loop offers a variety of different types of ecosystems and terrain to pass through, making for a unique adventure run.
 
