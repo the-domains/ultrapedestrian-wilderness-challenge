@@ -6,8 +6,8 @@ isBasedOnUrl: null
 inLanguage: null
 keywords: []
 description: " The fourth annual UltraPedestrian Wilderness Challenge is a multi-faceted multi-media adventure blogging contest open to Trailrunners, Fastpackers, Backpackers, and bipeds of all stripes. We are offer three unique routes. Entrants may attempt any or all of these. There are no aid stations, no course markings, no start/finish, no lemming lines, no cut offs, no set date; in fact, it's all up to you."
-datePublished: '2016-05-03T05:16:56.936Z'
-dateModified: '2016-05-03T05:16:46.840Z'
+datePublished: '2016-05-03T05:17:41.408Z'
+dateModified: '2016-05-03T05:17:23.627Z'
 title: Windy Peak Loop
 author: []
 sourcePath: _posts/2016-05-03-2016-ultrapedestrian-wilderness-challenge.md
