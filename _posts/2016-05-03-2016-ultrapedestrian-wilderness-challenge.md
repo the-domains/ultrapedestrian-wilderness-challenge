@@ -5,10 +5,10 @@ inNav: false
 isBasedOnUrl: null
 inLanguage: null
 keywords: []
-description: 2016 UltraPedestrian Wilderness Challenge Registration is OPEN
-datePublished: '2016-05-03T05:55:05.733Z'
-dateModified: '2016-05-03T05:55:01.829Z'
-title: 2016 UltraPedestrian Wilderness Challenge
+description: " The fourth annual UltraPedestrian Wilderness Challenge is a multi-faceted multi-media adventure blogging contest open to Trailrunners, Fastpackers, Backpackers, and bipeds of all stripes. We are offer three unique routes. Entrants may attempt any or all of these. There are no aid stations, no course markings, no start/finish, no lemming lines, no cut offs, no set date; in fact, it's all up to you."
+datePublished: '2016-05-03T05:59:35.960Z'
+dateModified: '2016-05-03T05:59:32.288Z'
+title: '2016 UltraPedestrian Wilderness Challenge Registration is OPEN '
 author: []
 sourcePath: _posts/2016-05-03-2016-ultrapedestrian-wilderness-challenge.md
 published: true
@@ -22,9 +22,7 @@ starred: false
 _type: Blurb
 
 ---
-## 2016 UltraPedestrian Wilderness Challenge
-
-**[2016 UltraPedestrian Wilderness Challenge Registration is OPEN][0]**
+## **[2016 UltraPedestrian Wilderness Challenge Registration is OPEN][0]**
 
 The fourth annual UltraPedestrian Wilderness Challenge is a multi-faceted multi-media adventure blogging contest open to Trailrunners, Fastpackers, Backpackers, and bipeds of all stripes. We are offer three unique routes. Entrants may attempt any or all of these. There are no aid stations, no course markings, no start/finish, no lemming lines, no cut offs, no set date; in fact, it's all up to you.
 
@@ -155,7 +153,7 @@ I hope you will enjoy the traverse as much as I did... even though I absolutely 
 
 And please, do not be intimidated by the off-trail nature of this course. The first time I traversed the off-trail portion I spent several hours in the days prior studying topographic maps, Google Earth, and extremely old trip reports from the area. I can't express how simple it is. Just be cautious while boulder hopping on the descent to Williams Lake. Do your homework and navigation will be very simple. Enjoy!
 
-**[CalTopo Link for map][9]**
+**CalTopo Link for map: **caltopo.com/m/3LHO
 
 **POINTS SYSTEM FOR THE UPWC**
 
@@ -185,9 +183,9 @@ Additional categories may be added at any time. All points are awarded at the so
 
 **BONUS POINTS FOR PAST UPWC ROUTES**
 
-Previous UPWC Routes may be completed for bonus points. Participants will receive **5 bonus point****s**********for each route completed from [**UPWC \#1**][10],**[UPWC \#2][11]**,****and/or **[UPWC \#3][12]**. Completing a route must include producing content in the form of a trip report, photo album, video, audio recording, artistic rendering, or any other form which reflects your experience of the route and can be posted online via your personal blog and/or the [**UPWC Facebook group**][1]. There is no signup fee for any of these bonus point routes, and, consequently, there are no finisher's patches for these routes. However, to be eligible for bonus points, entrants must have registered and paid their entry fee for at least one route from the current UPWC before completing a bonus route, and must complete at least one route from the current year by the end of the competition in order to receive the bonus points. Bonus point routes and current UPWC routes may be completed in any order.
+Previous UPWC Routes may be completed for bonus points. Participants will receive **5 bonus point****s**********for each route completed from [**UPWC \#1**][9],**[UPWC \#2][10]**,****and/or **[UPWC \#3][11]**. Completing a route must include producing content in the form of a trip report, photo album, video, audio recording, artistic rendering, or any other form which reflects your experience of the route and can be posted online via your personal blog and/or the [**UPWC Facebook group**][1]. There is no signup fee for any of these bonus point routes, and, consequently, there are no finisher's patches for these routes. However, to be eligible for bonus points, entrants must have registered and paid their entry fee for at least one route from the current UPWC before completing a bonus route, and must complete at least one route from the current year by the end of the competition in order to receive the bonus points. Bonus point routes and current UPWC routes may be completed in any order.
 
-**Five (5) bonus points** will also be awarded for completing the [**UltraPedestrian Mind/Body Challenge**][13].
+**Five (5) bonus points** will also be awarded for completing the [**UltraPedestrian Mind/Body Challenge**][12].
 
 **Important Note:**
 
@@ -211,13 +209,13 @@ All participants must submit proof of having completed the route via Spot Transp
 
 If you are submitting your entry for speed based awards you MUST provide SPOT/GPS/GARMIN/SUUNTO/DELORNE/OTHER data as proof. 
 
-**UltraPedestrian Wilderness Challenge** participants will receive five points for completing the [**UltraPedestrian Mind/Body Challenge**][14] as well as potential bonus points, as awarded by Ras. 
+**UltraPedestrian Wilderness Challenge** participants will receive five points for completing the [**UltraPedestrian Mind/Body Challenge**][13] as well as potential bonus points, as awarded by Ras. 
 
 Everyone who completes a route for the **2016 Ultrapedestrian Wilderness Challenge** will be awarded a unique finishers' patch (only available through UPWC participation) for every route they complete. Each route will have a unique patch design, and there will a distinct award for participants who complete all three, the 2016 UPWC Triple Crown. In addition, there will be other prizes and awards based on accumulated points. As noted above, points will be awarded based on a variety of criteria, including speed, good style, best photograph, best blog, gnarliest SNAFU, most diverse team, and numerous other aspects of backcountry wilderness adventure. Additional categories may be added based on submissions. All awards will be based on total points accumulated during the contest.
 
 No refunds. 
 
-All proceeds beyond the cost of prizes, awards, and shipping costs will go to support [**UltraPedestrian.com**][4], the [**UltraPedestrian Mind/Body Challenge**][13], and the [**UltraPedestrian Wilderness Challenge**][0].
+All proceeds beyond the cost of prizes, awards, and shipping costs will go to support [**UltraPedestrian.com**][4], the [**UltraPedestrian Mind/Body Challenge**][12], and the [**UltraPedestrian Wilderness Challenge**][0].
 
 [**2016 UltraPedestrian Wilderness Challenge registration is OPEN**][0]
 
@@ -230,9 +228,8 @@ All proceeds beyond the cost of prizes, awards, and shipping costs will go to su
 [6]: https://evergreenendurance.com/
 [7]: http://www.nwhikers.net/forums/viewtopic.php?t=7977930
 [8]: https://pantilat.wordpress.com/2009/08/07/suiattle-crest-50-mile-loop/
-[9]: caltopo.com/m/3LHO
-[10]: http://ultrapedestrian.blogspot.com/2013/04/2013-ultrapedestrian-wilderness.html
-[11]: http://ultrapedestrian.blogspot.com/2014/06/2014-ultrapedestrian-wilderness.html
-[12]: http://ultrapedestrian.blogspot.com/2015/07/2015-ultrapedestrian-wilderness.html
-[13]: http://ultrapedestrianwildernesschallenge.com/ultrapedestrian-mindbody-challenge/
-[14]: https://ultrasignup.com/register.aspx?did=38804
+[9]: http://ultrapedestrian.blogspot.com/2013/04/2013-ultrapedestrian-wilderness.html
+[10]: http://ultrapedestrian.blogspot.com/2014/06/2014-ultrapedestrian-wilderness.html
+[11]: http://ultrapedestrian.blogspot.com/2015/07/2015-ultrapedestrian-wilderness.html
+[12]: http://ultrapedestrianwildernesschallenge.com/ultrapedestrian-mindbody-challenge/
+[13]: https://ultrasignup.com/register.aspx?did=38804
