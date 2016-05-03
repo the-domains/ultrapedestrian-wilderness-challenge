@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: ' For 2016 UltraPedestrian.com is once again offering a new and unique contest called the Mind/Body Challenge.'
-datePublished: '2016-05-02T23:43:22.327Z'
-dateModified: '2016-05-02T23:43:10.895Z'
+datePublished: '2016-05-03T03:34:46.944Z'
+dateModified: '2016-05-03T03:33:55.996Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-24-ultrapedestrian-mindbody-challenge.md
@@ -38,7 +38,7 @@ Jack Kerouac spent 63 days during the summer of 1956 as a fire lookout on Desola
 
 Only 100 patches have been made. In 2015 two of them were awarded to Jeff Write ([Jeff's Trip Report][1]) and Brad Hefta-Gaub ([Brad's Trip Report][2]). That leaves 98 as yet unclaimed. Once those 98 are handed out to finishers no more patches will be made and the Double Desolation Route will be closed forever. 
 
-The entry fee for the 2015 UltraPedestrian Mind/Body Challenge is $25.00 per person. All proceeds beyond the cost of patches and shipping costs will go to support UltraPedestrian.com.
+The entry fee for the **2016 UltraPedestrian Mind/Body Challenge** is $25.00 per person. All proceeds beyond the cost of patches and shipping costs will go to support UltraPedestrian.com.
 
 **How to participate in the 2015 UP Mind/Body Challenge:**
 
@@ -64,11 +64,11 @@ Failure to abide by the following may result in a time-based penalty, subtractio
 
 All participants must at all times comport themselves in accordance with Federal, State, and Local laws, as well as Leave No Trace backcountry ethics.
 
-Registration via Ultrasignup.com must be completed before a route is attempted. 
+Registration via [**Ultrasignup.com**][0] must be completed before a route is attempted. 
 
-Entrants may participate solo or as part of a team. Teams can be independent, unsupported athletes than just travel together, or team members can mule for one another. But teams will not be allowed to receive any outside support from non-running personnel. 
+Entrants may participate solo or as part of a team. Teams can be independent, unsupported athletes than just travel together, or team members can mule for one another. But teams will not be allowed to receive any outside support from non-running personnel.
 
-Every member of a team must be a registered entrant in the 2016 UPMBC (registration for minors is free). 
+Every member of a team must be a registered entrant in the [2016 UPMBC][0]. Registration for minors is free. 
 
 All participants must submit proof of having completed the route via Spot Transponder, GPS/Garmin/Suunto/DeLorne/Other data, photographic evidence, and/or a convincingly detailed trip report/blog. 
 
@@ -76,19 +76,23 @@ If you are submitting your entry for speed based awards you MUST provide SPOT/GP
 
 **UltraPedestrian Wilderness Challenge** participants will receive five points for completing the Mind/Body Challenge as well as potential bonus points, as awarded by Ras. (For complete details on the points system please see the main UP Wilderness Challenge page.)
 
-The first 100 people who complete the Ultrapedestrian Mind/Body Challenge will be awarded a unique finishers' patch (only available through UPMBC participation). 
+The first 100 people who complete the **Ultrapedestrian Mind/Body Challenge** will be awarded a unique finishers' patch (only available through UPMBC participation). 
 
-Registration for the UltraPedestrian Mind/Body Challenge requires a one-time fee of $25.00 per person. Participants may attempt the Challenge as many times as necessary in order to complete it. If an entrant fails to complete the UPMBC during the current season, a free signup code will be issued (upon request) for registration in future years until the participant is able to complete the Challenge and earn their patch, or until all patches have been awarded and the Challenge is forever closed. 
+Registration for the **UltraPedestrian Mind/Body Challenge** requires a one-time fee of $25.00 per person. Participants may attempt the Challenge as many times as necessary in order to complete it. If an entrant fails to complete the UPMBC during the current season, a free signup code will be issued (upon request) for registration in future years until the participant is able to complete the Challenge and earn their patch, or until all patches have been awarded and the Challenge is forever closed. 
 
 No refunds.
 
-All proceeds beyond the cost of prizes, awards, and shipping costs will go to support UltraPedestrian.com, the UltraPedestrian Mind/Body Challenge, and the UltraPedestrian Wilderness Challenge.
+All proceeds beyond the cost of prizes, awards, and shipping costs will go to support [**UltraPedestrian.com**][6], the [**UltraPedestrian Mind/Body Challenge**][0], and the [**UltraPedestrian Wilderness Challenge**][7].
 ![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/1c70b55c42e3f05261c73858413562a9/passthrough.png?height=600&input=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fthe-grid-img%2Fp%2F0f15d7c8d3dcf51010a9c7db8bece89999849dcd.png&width=597)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ac6aabb2-ced4-40f9-ab0a-018455c58cda.png)
+
+  
+
 
 [0]: https://ultrasignup.com/register.aspx?did=38804
 [1]: http://jeffwrightsblog.blogspot.com/2015/07/mindbody-challenge-desolation-peak.html
 [2]: http://brad.sweat365.com/2015/11/07/ultraped-mindbody-double-desolation-challenge/
 [3]: https://ultrasignup.com/register.aspx?did=33653
 [4]: http://sevenhillsrunningshop.com/
-[5]: null
+[5]: https://www.facebook.com/groups/UPWildernessChallenge/
+[6]: http://www.UltraPedestrian.com/
+[7]: https://ultrasignup.com/register.aspx?did=38937
