@@ -5,9 +5,9 @@ inNav: true
 inLanguage: null
 keywords: []
 description: 2016 UltraPedestrian Wilderness Challenge Registration is OPEN
-datePublished: '2016-05-03T03:56:52.389Z'
-dateModified: '2016-05-03T03:40:57.828Z'
-title: ''
+datePublished: '2016-05-03T04:06:50.735Z'
+dateModified: '2016-05-03T03:58:53.594Z'
+title: Windy Peak Loop
 author: []
 sourcePath: _posts/2016-05-03-2016-ultrapedestrian-wilderness-challenge.md
 published: true
