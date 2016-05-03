@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: ' For 2016 UltraPedestrian.com is once again offering a new and unique contest called the Mind/Body Challenge.'
-datePublished: '2016-05-03T04:44:00.869Z'
-dateModified: '2016-05-03T04:43:57.408Z'
+datePublished: '2016-05-03T06:48:32.101Z'
+dateModified: '2016-05-03T06:48:22.090Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-24-ultrapedestrian-mindbody-challenge.md
@@ -40,7 +40,7 @@ Only 100 patches have been made. In 2015 two of them were awarded to Jeff Write 
 
 The entry fee for the **2016 UltraPedestrian Mind/Body Challenge** is $25.00 per person. All proceeds beyond the cost of patches and shipping costs will go to support UltraPedestrian.com.
 
-**How to participate in the 2015 UP Mind/Body Challenge:**
+**How to participate in the 2016 UP Mind/Body Challenge:**
 
 1\. Sign up on **[Ultrasignup.com][3]**_before you make your attempt and before November 30th, 2016\._
 
