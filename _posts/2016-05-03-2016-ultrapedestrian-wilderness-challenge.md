@@ -6,8 +6,8 @@ isBasedOnUrl: null
 inLanguage: null
 keywords: []
 description: " The fourth annual UltraPedestrian Wilderness Challenge is a multi-faceted multi-media adventure blogging contest open to Trailrunners, Fastpackers, Backpackers, and bipeds of all stripes. We are offer three unique routes. Entrants may attempt any or all of these. There are no aid stations, no course markings, no start/finish, no lemming lines, no cut offs, no set date; in fact, it's all up to you."
-datePublished: '2016-05-03T05:13:19.398Z'
-dateModified: '2016-05-03T05:13:09.692Z'
+datePublished: '2016-05-03T05:16:56.936Z'
+dateModified: '2016-05-03T05:16:46.840Z'
 title: Windy Peak Loop
 author: []
 sourcePath: _posts/2016-05-03-2016-ultrapedestrian-wilderness-challenge.md
@@ -18,7 +18,7 @@ publisher:
   domain: null
   url: null
   favicon: null
-starred: true
+starred: false
 _type: Blurb
 
 ---
@@ -75,17 +75,11 @@ The **Spider Gap Loop** is a beautiful route that "penetrates some of the most g
 You can do this route either clockwise or counterclockwise. Here are clockwise directions:
 
 * Start at the Trinity Trailhead and head up Buck Creek Trail (\#1513).
-
-* Take Buck Creek Trail up and over Buck Creek Pass, to Middle Ridge and then connect with the PCT. 
-
+* Take Buck Creek Trail up and over Buck Creek Pass, to Middle Ridge and then connect with the PCT.
 * Take the PCT to the Suiattle Pass trail (1279). Take the Suiattle Pass trail to Cloudy Pass.
-
-* At Cloudy Pass, drop down to Lyman Lakes on trail \#1256, and then pick up the Upper Lyman Lake trail (\#1256.2) which leads you to Spider Gap. 
-
-* From Spider Gap, descend into Spider Meadows on a rough trail. 
-
+* At Cloudy Pass, drop down to Lyman Lakes on trail \#1256, and then pick up the Upper Lyman Lake trail (\#1256.2) which leads you to Spider Gap.
+* From Spider Gap, descend into Spider Meadows on a rough trail.
 * Connect to Phelps Creek trail and take it all the way out to Phelps Creek TH
-
 * Road walk/run back to Trinity TH (this is part of the route - no car shuttles, please!)
 
 ****
@@ -94,28 +88,20 @@ The **Spider On Steroids** Route may be more to your liking if you're looking fo
 
 For the **SOS** I highly recommend going clockwise to get the crux of the route (Little Giant Pass to High Pass) done when you're fresh. 
 
-* Starting at Little Giant trailhead, go over Little Giant Pass and then drop down into the Napeequa Valley. _(The Napeequa Valley is stunning and has been referred to by some as "Shangri-la." That said, it is a very steep descent on an abandoned trail from Little Giant Pass to the bottom of Napeequa Valley, so caution is advised. From a previous trip report: "...Two horses died falling off the trail here. They reportedly tumbled many hundreds of feet before coming to rest. So don't doubt that it's steep." Apparently the bleached bones of these unfortunate animals can still be seen from the trail.)_
+Starting at Little Giant trailhead, go over Little Giant Pass and then drop down into the Napeequa Valley. _(The Napeequa Valley is stunning and has been referred to by some as "Shangri-la." That said, it is a very steep descent on an abandoned trail from Little Giant Pass to the bottom of Napeequa Valley, so caution is advised. From a previous trip report: "...Two horses died falling off the trail here. They reportedly tumbled many hundreds of feet before coming to rest. So don't doubt that it's steep." Apparently the bleached bones of these unfortunate animals can still be seen from the trail.)_
 
 * Travel up the Napeequa Valley on the Boulder Creek/Pass Trail (\#1562).
-
 * As you near the northwestern end of the valley, approx 1 mile NW of Louis Creek, look for the North Fork of the Napeequa (NFN) heading north to High Pass.
-
-* Follow the NFN up towards High Pass - there is no maintained trail and some route-finding may be necessary. 
-
+* Follow the NFN up towards High Pass - there is no maintained trail and some route-finding may be necessary.
 * Go up and over High Pass, at which point it's mostly trail back to your car:
-
-* From High Pass, take the High Pass Trail (\#1562.2) to the Buck Creek Pass trail (\#789?) to the PCT. 
+* From High Pass, take the High Pass Trail (\#1562.2) to the Buck Creek Pass trail (\#789?) to the PCT.
 
 _(From this point on, the route is the same as the **Spider Gap Loop**.)_
 
-* The PCT connects to the Suiattle Pass trail (1279), which takes you from Suiattle Pass to Cloudy Pass. 
-
-* At Cloudy Pass, drop down to Lyman Lakes on trail \#1256, where you pick up the Upper Lyman Lake trail (\#1256.2) which leads you to Spider Gap. 
-
+* The PCT connects to the Suiattle Pass trail (1279), which takes you from Suiattle Pass to Cloudy Pass.
+* At Cloudy Pass, drop down to Lyman Lakes on trail \#1256, where you pick up the Upper Lyman Lake trail (\#1256.2) which leads you to Spider Gap.
 * From Spider Gap, descend into Spider Meadows
-
 * Follow Phelps Creek trail all the way out to Phelps Creek TH
-
 * Road walk/run back to Little Giant TH (this is part of the route - no car shuttles, please!)
 
 Two helpful links for the **SOS** route: 
