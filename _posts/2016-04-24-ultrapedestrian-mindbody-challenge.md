@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: ' For 2016 UltraPedestrian.com is once again offering a new and unique contest called the Mind/Body Challenge.'
-datePublished: '2016-05-03T04:07:06.342Z'
-dateModified: '2016-05-03T03:58:27.246Z'
+datePublished: '2016-05-03T04:39:27.152Z'
+dateModified: '2016-05-03T04:39:03.487Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-24-ultrapedestrian-mindbody-challenge.md
